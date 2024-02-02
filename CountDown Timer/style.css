@@ -12,6 +12,10 @@ body{
     min-height: 100vh;
     background: #3a393b;
 }
+h1{
+  font-family: 'Poppins ' sans-serif;
+  color: #fff;
+}
 #time{
     display: flex;
     gap: 30px;
